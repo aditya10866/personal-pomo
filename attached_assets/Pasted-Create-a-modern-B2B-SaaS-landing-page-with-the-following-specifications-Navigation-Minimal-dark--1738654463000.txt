@@ -1,0 +1,97 @@
+Create a modern B2B SaaS landing page with the following specifications:
+Navigation:
+
+Minimal, dark-themed header
+Left-aligned company logo
+Center-aligned main menu with key pages (Product, Resources, etc.)
+Right-aligned CTA button in light contrast
+Sticky nav with subtle background blur on scroll
+
+Core Sections:
+
+Hero Section
+
+
+Small category pill with icon (can be customized to your product category)
+Large, bold headline using modern sans-serif font
+Concise subheadline in muted gray
+Primary CTA button with secondary link option
+3D product visualization or interface preview
+Subtle animated background elements
+
+
+Feature Showcases (Multiple)
+
+
+Feature category pills with relevant icons
+Bold, benefit-focused headlines
+Supporting text in muted gray
+Interactive showcase cards (3-4 per section):
+
+Dark, glass-morphic effect with subtle borders
+Product screenshots or feature illustrations
+Brief feature description
+Interactive elements (hover states, arrows, expansion)
+
+
+Card grid with horizontal scroll for mobile
+
+
+Product Experience Section
+
+
+Immersive product interface preview
+Tilted/3D perspective views
+Floating UI elements with blur effects
+Interactive hotspots highlighting key features
+Motion subtle enough to not distract
+
+Visual Language:
+
+Base: Rich dark theme (#111111 or darker)
+Accents: One primary brand color with subtle gradients
+Typography:
+
+Large, confident headlines
+Clean, legible body text
+Clear hierarchy with size and weight
+
+
+Elements:
+
+Glassmorphic cards and panels
+Subtle borders (1px, low opacity)
+Floating elements with drop shadows
+Blur effects on background elements
+
+
+
+Interactive Elements:
+
+Smooth hover states
+Subtle scale transforms
+Cursor interactions
+Progressive loading animations
+Scroll-triggered animations
+
+Social Proof:
+
+Customer logo grid in monochrome
+Integration partner showcases
+Key metrics or achievement stats
+Brief customer testimonials in cards
+
+Bottom Funnel:
+
+Clear value proposition
+Feature comparison table
+Pricing tier cards (if applicable)
+Final CTA section with trial/demo options
+
+Technical Considerations:
+
+Performance-optimized animations
+Responsive breakpoints for all devices
+Accessible color contrasts despite dark theme
+Progressive loading for heavy assets
+Optimized image loading with blur placeholders
